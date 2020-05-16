@@ -2,6 +2,7 @@ this is test
 
 modified 
 
+<<<<<<< HEAD
 
 this is other man modified dev
 
@@ -12,3 +13,8 @@ Dev other man modified
 
 22222222222222
 
+=======
+Dev other man modified
+
+บวบว
+>>>>>>> 3d473198d139fd0d40cd17cdd9f5bbe2c3941852
