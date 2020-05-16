@@ -2,4 +2,8 @@ this is test
 
 modified 
 
+<<<<<<< HEAD
 this is other man modified dev
+=======
+Dev other man modified
+>>>>>>> 202967d9178dbd78ba839e5342422ecd621fbf5f
